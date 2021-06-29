@@ -1,6 +1,7 @@
 echo "# Nativeappproject" >> README.md 29/06/2564
 
 git config --global user.email "worachet raphukhiew"
+<br>
 git config --global user.name "060worachet"
 git init
 git add .
